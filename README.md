@@ -3,7 +3,7 @@
 A simple php language server plugin for
 [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim).
 
-Uses the greate
+This is just a package for easy setup, which uses the greate
 [php-language-server](https://github.com/felixfbecker/php-language-server).
 
 ## Installation
