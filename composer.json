@@ -1,0 +1,10 @@
+{
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"require": {
+		"felixfbecker/language-server": "*"
+	},
+	"scripts": {
+		"parse-stubs": "LanguageServer\\ComposerScripts::parseStubs"
+	}
+}
