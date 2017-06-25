@@ -3,8 +3,8 @@
 A simple php language server plugin for
 [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim).
 
-This is just a package for easy setup, which uses the greate
-[php-language-server](https://github.com/felixfbecker/php-language-server).
+I almost code nothing for this plugin. It's just a package for easy setup,
+which uses the great [php-language-server](https://github.com/felixfbecker/php-language-server).
 
 ## Installation
 
