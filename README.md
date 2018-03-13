@@ -20,9 +20,3 @@ install && composer run-script parse-stubs` after.
 For auto-completion popup, you might need to install
 [nvim-completion-manager](https://github.com/roxma/nvim-completion-manager).
 
-## Config
-
-```vim
-autocmd FileType php LanguageClientStart
-```
-
